@@ -10,13 +10,9 @@
 
 💬 Chat with me about anything tech-related, from AI to web dev and beyond.
 
-🌐 Find me on [LinkedIn](https://www.linkedin.com/in/harshavc/) and let's connect!
-
 🛠️ Open-source contributor and tech explorer. Check out my repositories below! ⬇️
 
 🏆 Always striving for excellence in the world of 1s and 0s.
-
-🔗 Portfolio: [Harsha Portfolio Website](https://harsha230.github.io/Personal-Portfolio/)
 
 🎮 When not coding, you can find me gaming or stargazing.
 
