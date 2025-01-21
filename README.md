@@ -2,7 +2,7 @@
 
 🌌 Exploring the infinite realms of AI, ML, and web development. Enthusiast of code, creativity, and coffee. ☕
 
-📚 Currently immersed in the world of MERN Stack, building the web of tomorrow.
+📚 Currently immersed in MERN Stack's world, building tomorrow's web.
 
 🔭 On a quest to discover new possibilities, one line of code at a time.
 
